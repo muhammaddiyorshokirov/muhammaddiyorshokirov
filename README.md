@@ -6,41 +6,7 @@
   <h2>Hey, I'm Muhammaddiyor Shokirov! A 15-year-old Frontend Wizard crafting digital magic! ✨</h2>
 </div>
 
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  .section {
-    animation: fadeIn 2s ease-in-out;
-    border-radius: 10px;
-    padding: 20px;
-    margin: 10px 0;
-    background: linear-gradient(45deg, #1e3c72, #2a5298);
-    color: white;
-  }
-  .badge:hover {
-    transform: scale(1.2);
-    transition: transform 0.3s ease;
-    box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
-  }
-  .project-card {
-    animation: slideIn 1.5s ease-in-out;
-    background: linear-gradient(135deg, #ff6b6b, #ff8e53);
-    padding: 15px;
-    border-radius: 8px;
-    margin: 10px 0;
-  }
-  @keyframes slideIn {
-    0% { opacity: 0; transform: translateX(-30px); }
-    100% { opacity: 1; transform: translateX(0); }
-  }
-  @keyframes rotate {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
+
 
 ---
 
