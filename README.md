@@ -1,3 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+22900
+Fork on GitHub
+7668
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Muhammaddiyor</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
@@ -11,7 +27,7 @@
 
 - 📫 How to reach me **muhammaddiyor.shokirov@mail.ru**
 
-- 📄 My resume [https://docs.google.com/document/d/1I204trVJeete5BUw7JglrzJ6LoE4cDdJ/edit?usp=sharing&ouid=112470663441471921405&rtpof=true&sd=true](https://docs.google.com/document/d/1I204trVJeete5BUw7JglrzJ6LoE4cDdJ/edit?usp=sharing&ouid=112470663441471921405&rtpof=true&sd=true)
+- 📄 My resume [https://docs.google.com/document/d/1I204trVJeete5BUw7JglrzJ6LoE4cDdJ/edit](https://docs.google.com/document/d/1I204trVJeete5BUw7JglrzJ6LoE4cDdJ/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +44,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammaddiyorshokirov&show_icons=true&locale=en" alt="muhammaddiyorshokirov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammaddiyorshokirov&" alt="muhammaddiyorshokirov" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
