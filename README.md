@@ -1,98 +1,88 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</div>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-    Hi there, I'm Muhammaddiyor
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-wave.gif?1531849430" width="30"/>
-  </h1>
-  <h3>A passionate young developer and aspiring cybersecurity specialist from Andijan, Uzbekistan 🇺🇿</h3>
+  <h1 align="center">Hey there, I'm Muhammaddiyor Shokirov 👋</h1>
+  <h3 align="center">
+    A passionate Cybersecurity enthusiast, Developer, and Content Creator from Andijan, Uzbekistan 🇺🇿
+  </h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=31C653&center=true&vCenter=true&width=550&lines=Aspiring+Cybersecurity+Specialist;Building+Secure+Web+Applications;Creating+Intelligent+Bots;Exploring+the+World+of+Linux;Learning+German+(Deutsch+lernen)" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  </div>
+  <a href="https://t.me/LonesNetwork" target="_blank"><img src="https://img.shields.io/badge/Telegram-LonesNetwork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.instagram.com/thelone_pixel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@thelone_pixel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:muhammaddiyor.shokirov@mail.ru"><img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-I'm a 16-year-old student from the beautiful city of Andijan. My journey into the world of technology is driven by a strong passion for cybersecurity and a love for creating innovative things.
+I'm a 16-year-old developer with a deep passion for making the digital world a safer place. My main goal is to become an expert in **Cybersecurity**.
 
-- 🔭 I’m currently focusing on building my skills in **Cybersecurity**.
-- 🌱 I’m learning **German (Deutsch)** and always expanding my programming knowledge.
-- 👨‍💻 I love building dynamic **websites** and creating smart **bots** for platforms like Telegram.
-- 🎮 In my free time, I also enjoy creating **mods and resources** for my favorite games.
-- 🥅 2025 Goals: Deepen my understanding of network security and contribute to an open-source project.
+- 👨‍💻 I build various projects, from **websites** to **Telegram bots**, which you can find on my Telegram channel, **LonesNetwork**.
+- 🎮 On my Instagram, **@thelone_pixel**, I combine my love for gaming and creativity by producing **game animations and edits**.
+- 🌱 I'm currently expanding my knowledge in **network security, ethical hacking, and the German language**.
+- 💡 I believe in the power of open-source and enjoy collaborating on interesting projects.
 
 ---
 
-### 🛠️ My Skills & Tech Stack
+### 💻 My Tech Arsenal & Skills
 
-Here are some of the technologies I work with:
-
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="96">
-      <a href="#-my-skills--tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+    <td valign="top" width="50%">
+      <h3 align="center">Languages & Frontend</h3>
+      <p align="center">
+        <a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+        <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+      </p>
     </td>
-    <td align="center" width="96">
-      <a href="#-my-skills--tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-skills--tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-skills--tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-     <td align="center" width="96">
-      <a href="#-my-skills--tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-skills--tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
+    <td valign="top" width="50%">
+      <h3 align="center">Backend & Tools</h3>
+      <p align="center">
+        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+        <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+        <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
+      </p>
     </td>
   </tr>
 </table>
 
-**My Primary Interests:**
+---
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bot Development](https://img.shields.io/badge/Bot_Development-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Game Modding](https://img.shields.io/badge/Game_Modding-7289DA?style=for-the-badge&logo=steam&logoColor=white)
+### 📊 My GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammaddiyorshokirov&show_icons=true&theme=dracula&icon_color=8BE9FD&hide_border=true&count_private=true" alt="Muhammaddiyor's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddiyorshokirov&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammaddiyorshokirov&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammaddiyorshokirov&theme=dracula&hide_border=true&bg_color=282A36" alt="GitHub Activity Graph"/>
+</div>
 
 ---
 
-### 📊 My GitHub Stats
+### 📌 Pinned Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true" alt="Muhammaddiyor's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddiyorshokirov&repo=YOUR_FIRST_PINNED_REPO&theme=dracula" alt="Pinned Repo 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddiyorshokirov&repo=YOUR_SECOND_PINNED_REPO&theme=dracula" alt="Pinned Repo 2" />
+  </div>
 
-<br>
+---
+
 <div align="center">
-  <p>Thanks for visiting my profile! Let's connect and create something amazing together.</p>
+  <img src="https://komarev.com/ghpvc/?username=muhammaddiyorshokirov&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
