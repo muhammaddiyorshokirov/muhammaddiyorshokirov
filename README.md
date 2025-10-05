@@ -1,88 +1,76 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk1cGtycnY4d2V2eTBibGJvZDRyN3dya2N6ajJlbGJ2ZDNmNTB6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2E/giphy.gif" alt="Cybersecurity Banner"/>
+</p>
 
 <div id="header" align="center">
   <h1 align="center">Hey there, I'm Muhammaddiyor Shokirov 👋</h1>
-  <h3 align="center">
-    A passionate Cybersecurity enthusiast, Developer, and Content Creator from Andijan, Uzbekistan 🇺🇿
-  </h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=31C653&center=true&vCenter=true&width=550&lines=Aspiring+Cybersecurity+Specialist;Building+Secure+Web+Applications;Creating+Intelligent+Bots;Exploring+the+World+of+Linux;Learning+German+(Deutsch+lernen)" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Cybersecurity+Specialist+in+the+making;Full-Stack+Web+%26+Bot+Developer;Creative+Gaming+Content+Creator;Passionate+about+Linux+and+Open-Source" alt="Typing Animation" />
 </div>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/muhammaddiyorshokirov?tab=followers"><img src="https://img.shields.io/github/followers/muhammaddiyorshokirov?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://komarev.com/ghpvc/?username=muhammaddiyorshokirov"><img src="https://komarev.com/ghpvc/?username=muhammaddiyorshokirov&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/></a>
+  <br>
   <a href="https://t.me/LonesNetwork" target="_blank"><img src="https://img.shields.io/badge/Telegram-LonesNetwork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://www.instagram.com/thelone_pixel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@thelone_pixel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:muhammaddiyor.shokirov@mail.ru"><img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-</div>
+</p>
 
 ---
 
 ### 🚀 About Me
-
-I'm a 16-year-old developer with a deep passion for making the digital world a safer place. My main goal is to become an expert in **Cybersecurity**.
+I'm a 16-year-old developer and cybersecurity enthusiast from Andijan, Uzbekistan 🇺🇿. My mission is to build secure and innovative digital solutions.
 
 - 👨‍💻 I build various projects, from **websites** to **Telegram bots**, which you can find on my Telegram channel, **LonesNetwork**.
 - 🎮 On my Instagram, **@thelone_pixel**, I combine my love for gaming and creativity by producing **game animations and edits**.
-- 🌱 I'm currently expanding my knowledge in **network security, ethical hacking, and the German language**.
-- 💡 I believe in the power of open-source and enjoy collaborating on interesting projects.
+- 🛡️ My main focus is learning **Network Security, Ethical Hacking, and building a strong foundation in cybersecurity**.
+- 🇩🇪 I'm also currently learning the **German language**.
 
 ---
 
-### 💻 My Tech Arsenal & Skills
+### 💻 My Tech Arsenal
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,linux,docker,git,nginx,bash&perline=6" alt="My Skills"/>
+</p>
+
+---
+
+### 📊 My GitHub Stats & Activity
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">Languages & Frontend</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">GitHub Stats</h3>
       <p align="center">
-        <a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-        <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+        <img src="https://github-readme-stats.vercel.app/api?username=muhammaddiyorshokirov&show_icons=true&theme=dracula&icon_color=8BE9FD&hide_border=true&count_private=true" alt="Muhammaddiyor's GitHub Stats" />
       </p>
     </td>
-    <td valign="top" width="50%">
-      <h3 align="center">Backend & Tools</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Top Languages</h3>
       <p align="center">
-        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-        <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-        <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddiyorshokirov&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammaddiyorshokirov&theme=dracula&hide_border=true" alt="GitHub Streak" />
       </p>
     </td>
   </tr>
 </table>
 
----
-
-### 📊 My GitHub Activity & Stats
-
+<h3 align="center">Contribution Graph</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammaddiyorshokirov&show_icons=true&theme=dracula&icon_color=8BE9FD&hide_border=true&count_private=true" alt="Muhammaddiyor's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddiyorshokirov&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammaddiyorshokirov&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammaddiyorshokirov&theme=dracula&hide_border=true&bg_color=282A36" alt="GitHub Activity Graph"/>
+  <img src="https://github.com/muhammaddiyorshokirov/muhammaddiyorshokirov/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph"/>
 </div>
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Mening Loyihalarim (Pinned Projects) - MUHIM!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddiyorshokirov&repo=YOUR_FIRST_PINNED_REPO&theme=dracula" alt="Pinned Repo 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddiyorshokirov&repo=YOUR_SECOND_PINNED_REPO&theme=dracula" alt="Pinned Repo 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddiyorshokirov&repo=muhammaddiyorshokirov&theme=dracula&show_owner=true" alt="muhammaddiyorshokirov repo" />
+
   </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammaddiyorshokirov&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</div>
