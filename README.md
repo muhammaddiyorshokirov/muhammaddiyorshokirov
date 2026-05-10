@@ -19,12 +19,20 @@
 > **Frontend**
 >
 > [![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+> [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 > [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+> [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 >
 > **Backend**
 >
 > [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 > [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+> [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+> [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+>
+> **APIs**
+>
+> [![API development](https://img.shields.io/badge/API_development_%28REST%2F_OpenAPI%29-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/)
 >
 > **AI / Data**
 >
@@ -42,8 +50,8 @@
 
 > **GitHub analytics**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammaddiyorshokirov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&border_radius=12&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddiyorshokirov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=muhammaddiyorshokirov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&border_radius=12&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhammaddiyorshokirov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=muhammaddiyorshokirov&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&ring=7aa2f7&fire=bb9af7&currStreakLabel=Current%20streak&sideLabels=7dcfff" alt="GitHub streak" />
 
